@@ -1,0 +1,21 @@
+[vlive]
+title = "CHUNG HA ─ Star Board"
+url = "https://www.vlive.tv/channel/E3437D/board/4348?lang=ko"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "span[class^='upload_time']"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[vlive_notice]
+title = "CHUNG HA ─ Notice"
+url = "https://www.vlive.tv/channel/E3437D/board/906"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "span[class^='upload_time']"
+waitUntil = "networkidle"
+onFail = "stale"
