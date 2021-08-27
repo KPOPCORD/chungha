@@ -4,9 +4,17 @@
         <title>CHUNG HA ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 08:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 09:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[C-HAind] 우리 애가 요새 빠져 있던 것]]></title>
+            <link>https://www.vlive.tv/post/1-24988529</link>
+            <guid>https://www.vlive.tv/post/1-24988529</guid>
+            <pubDate>Fri, 27 Aug 2021 09:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210826_230/1629968388380lQYnC_JPEG/upload_74048094691770879e9c53fa0-fe44-4974-9d21-32bf08af76e6.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[B-HAind] CHUNG HA 청하 젤라또팩토리(GELATO FACTORY) 광고 촬영 비하인드]]></title>
             <link>https://www.vlive.tv/post/0-24350339</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-23464242</guid>
             <pubDate>Fri, 20 Aug 2021 08:55:50 GMT</pubDate>
             <content:encoded><![CDATA[6.12.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210613_172/1623519806227KknOE_JPEG/233302c1-cba5-11eb-9903-505dac8c3639_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[B-HAind] CHUNG HA 청하 리복(Reebok) 광고 비하인드(PREMIER ROAD PLUS)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[CHUNG HA 청하 X Guaynaa 'Demente (Spanish Ver.)' MV Teaser]]></title>
             <link>https://www.vlive.tv/post/0-21839630</link>
             <guid>https://www.vlive.tv/post/0-21839630</guid>
-            <pubDate>Fri, 20 Aug 2021 08:55:50 GMT</pubDate>
-            <content:encoded><![CDATA[3.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[B-HAind] CHUNG HA 청하 ‘Querencia’ 쇼케이스 비하인드]]></title>
-            <link>https://www.vlive.tv/post/1-21776427</link>
-            <guid>https://www.vlive.tv/post/1-21776427</guid>
             <pubDate>Fri, 20 Aug 2021 08:55:50 GMT</pubDate>
             <content:encoded><![CDATA[3.15.]]></content:encoded>
         </item>
