@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 03:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 04:53:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -439,6 +439,14 @@
             <content:encoded><![CDATA[Jul 21, 2020]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[청하BEHIND] 까르띠에x보그 화보 비하인드 (MNH ENTERTAINMENT ─ CHUNG HA)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32319716&amp;memberNo=31769942&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32319716&amp;memberNo=31769942&amp;navigationType=push</guid>
+            <pubDate>Tue, 07 Sep 2021 04:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MNH ENTERTAINMENT</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDdfMzQg/MDAxNjMwOTg1MzEwODAw.mpCSdY1jCBHEHI_5E9LA5k_ZejoPrc5oFaBvszhdzrQg.JJeBw2zmKC0N-rkfDzrj9JS5enqSXpAr0CktJLM-3zsg.JPEG/Ip5fYQXXEDQ2TDPkHLmv1oqhn73A.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[청하BEHIND] 젤라또 팩토리 광고 촬영 현장 (MNH ENTERTAINMENT ─ CHUNG HA)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32070593&amp;memberNo=31769942&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32070593&amp;memberNo=31769942&amp;navigationType=push</guid>
@@ -589,14 +597,6 @@
             <pubDate>Sat, 28 Aug 2021 13:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">MNH ENTERTAINMENT</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MTZfMTcy/MDAxNTkyMjkxODEwNzA1.VsZ5lW3OSDylQ8ZUDSdZ6qG3XUhs-3usWCyo5fboNqkg.YtL5x2NIQ3pPQJFwG2c1cyMlpW4DvGDZ2JbM_ZRTn0Ug.JPEG/IKeNbRvPQgBLCdotJ7LCzO2aALI8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[청하BEHIND] '여기 적어줘(Feat. pH-1)' 뮤직비디오 촬영 현장 Part.1 (MNH ENTERTAINMENT ─ CHUNG HA)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28453734&amp;memberNo=31769942&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28453734&amp;memberNo=31769942&amp;navigationType=push</guid>
-            <pubDate>Sat, 28 Aug 2021 13:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">MNH ENTERTAINMENT</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MDRfMjEz/MDAxNTkxMjYzNTIwMzE0.MYIcISai9nBsKb_yIxly3_H3ZQeLVtIEx99-cgzmdlYg.9V_-I_7StYnYG_-d_-r-9s3TlvYvGBLozsRI3BJCrBwg.JPEG/IZpDrwiYjIWM0o0a_ibpgobRfT6k.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
