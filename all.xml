@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Sep 2021 02:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 03:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CHUNG HA 청하 2021 Chuseok Greeting 추석 인사 (CHUNG HA ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-25450711</link>
+            <guid>https://www.vlive.tv/post/1-25450711</guid>
+            <pubDate>Mon, 20 Sep 2021 03:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210916_23/1631778999175KsKLo_JPEG/upload_48048601766215556022dca4f-7e3e-4c00-9494-a2db0ba3d22a.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[B-HAind] CHUNG HA 청하 워너랩(WANNA LAB) 광고 촬영 비하인드 (CHUNG HA ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-25229226</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-24350339</guid>
             <pubDate>Fri, 20 Aug 2021 08:55:50 GMT</pubDate>
             <content:encoded><![CDATA[7.28.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210727_250/1627379429876PWfDR_JPEG/upload_71459138530056142c51a33a3-461a-47de-a1d7-d719766ab218.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[C-HAind] 칭찬 감옥에서 살아남기 (CHUNG HA ─ Star Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[CHUNG HA 청하 X Guaynaa 'Demente (Spanish Ver.)' MV (CHUNG HA ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-21855091</link>
             <guid>https://www.vlive.tv/post/0-21855091</guid>
-            <pubDate>Fri, 20 Aug 2021 08:55:50 GMT</pubDate>
-            <content:encoded><![CDATA[3.17.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CHUNG HA, Guaynaa [ Demente (Spanish Ver) ]  🖊👀 (CHUNG HA ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-21865274</link>
-            <guid>https://www.vlive.tv/post/1-21865274</guid>
             <pubDate>Fri, 20 Aug 2021 08:55:50 GMT</pubDate>
             <content:encoded><![CDATA[3.17.]]></content:encoded>
         </item>
