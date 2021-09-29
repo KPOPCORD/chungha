@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 08:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 09:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[C-HAind] LP 촬영장에서 생긴 일 (CHUNG HA ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-25668104</link>
+            <guid>https://www.vlive.tv/post/0-25668104</guid>
+            <pubDate>Wed, 29 Sep 2021 09:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210928_239/1632803037915G2TmP_JPEG/upload_490725612839749318aee7ce0-a018-4b20-bed9-34ae6bdce0e9.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CHUNG HA 청하 2021 Chuseok Greeting 추석 인사 (CHUNG HA ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-25450711</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-24988529</guid>
             <pubDate>Fri, 27 Aug 2021 09:41:26 GMT</pubDate>
             <content:encoded><![CDATA[8.27.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210826_230/1629968388380lQYnC_JPEG/upload_74048094691770879e9c53fa0-fe44-4974-9d21-32bf08af76e6.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[B-HAind] CHUNG HA 청하 젤라또팩토리(GELATO FACTORY) 광고 촬영 비하인드 (CHUNG HA ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-21877881</guid>
             <pubDate>Fri, 20 Aug 2021 08:55:50 GMT</pubDate>
             <content:encoded><![CDATA[3.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CHUNG HA 청하 X Guaynaa 'Demente (Spanish Ver.)' MV (CHUNG HA ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-21855091</link>
-            <guid>https://www.vlive.tv/post/0-21855091</guid>
-            <pubDate>Fri, 20 Aug 2021 08:55:50 GMT</pubDate>
-            <content:encoded><![CDATA[3.17.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[청하 2021 시즌그리팅 예약판매 안내 (CHUNG HA ─ Notice)]]></title>
