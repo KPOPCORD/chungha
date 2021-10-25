@@ -4,9 +4,17 @@
         <title>CHUNG HA ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 08:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 09:43:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[B-HAind] CHUNG HA 청하 리복(Reebok) 광고 촬영 비하인드(21 F/W)]]></title>
+            <link>https://www.vlive.tv/post/0-26088371</link>
+            <guid>https://www.vlive.tv/post/0-26088371</guid>
+            <pubDate>Mon, 25 Oct 2021 09:42:37 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211021_172/1634797758547cQzHa_JPEG/upload_5106736302585777651ae0a63-751e-45d5-b722-8997c9a64d3c.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[C-HAind] LP 촬영장에서 생긴 일]]></title>
             <link>https://www.vlive.tv/post/0-25668104</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25229226</guid>
             <pubDate>Sat, 16 Oct 2021 07:38:44 GMT</pubDate>
             <content:encoded><![CDATA[9.8.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210907_129/16309882177769go8y_JPEG/upload_75067931354691727aa7477d7-751d-4727-bdfe-3e25ae1d4bae.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[C-HAind] 우리 애가 요새 빠져 있던 것]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-21991488</guid>
             <pubDate>Sat, 16 Oct 2021 07:38:44 GMT</pubDate>
             <content:encoded><![CDATA[3.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[B-HAind] CHUNG HA 청하 ‘Bicycle’ 컴백 주 음악방송 비하인드]]></title>
-            <link>https://www.vlive.tv/post/1-21877881</link>
-            <guid>https://www.vlive.tv/post/1-21877881</guid>
-            <pubDate>Sat, 16 Oct 2021 07:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[3.18.]]></content:encoded>
         </item>
     </channel>
 </rss>
