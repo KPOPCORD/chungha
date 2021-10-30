@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 07:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 08:44:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
             <link>https://www.vlive.tv/post/0-26232786</link>
             <guid>https://www.vlive.tv/post/0-26232786</guid>
             <pubDate>Sat, 30 Oct 2021 07:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[지금]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/267477/thumb?type=f640_362" length="0" type="image//live/267477/thumb"/>
+            <content:encoded><![CDATA[54분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211030_64/1635580204752btAqM_JPEG/a2f0194e-3955-11ec-8636-505dac8c3639_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[B-HAind] CHUNG HA 청하 'BAD GIRL (Prod. Czaer)' 녹음실 비하인드 (CHUNG HA ─ Star Board)]]></title>
