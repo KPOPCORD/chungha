@@ -4,9 +4,17 @@
         <title>CHUNG HA ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 06:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 07:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[할말...이 아직 많이 남았어요 별하랑...!⭐️]]></title>
+            <link>https://www.vlive.tv/post/0-26232786</link>
+            <guid>https://www.vlive.tv/post/0-26232786</guid>
+            <pubDate>Sat, 30 Oct 2021 07:38:18 GMT</pubDate>
+            <content:encoded><![CDATA[지금]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/267477/thumb?type=f640_362" length="0" type="image//live/267477/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[B-HAind] CHUNG HA 청하 'BAD GIRL (Prod. Czaer)' 녹음실 비하인드]]></title>
             <link>https://www.vlive.tv/post/1-26211065</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25668104</guid>
             <pubDate>Sat, 16 Oct 2021 07:38:44 GMT</pubDate>
             <content:encoded><![CDATA[9.29.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210928_239/1632803037915G2TmP_JPEG/upload_490725612839749318aee7ce0-a018-4b20-bed9-34ae6bdce0e9.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHUNG HA 청하 2021 Chuseok Greeting 추석 인사]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-22236429</guid>
             <pubDate>Sat, 16 Oct 2021 07:38:44 GMT</pubDate>
             <content:encoded><![CDATA[4.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[B-HAind] CHUNG HA ‘Demente’ MV 비하인드]]></title>
-            <link>https://www.vlive.tv/post/1-22116532</link>
-            <guid>https://www.vlive.tv/post/1-22116532</guid>
-            <pubDate>Sat, 16 Oct 2021 07:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[4.1.]]></content:encoded>
         </item>
     </channel>
 </rss>
