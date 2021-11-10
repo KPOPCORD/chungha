@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 08:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 09:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -439,6 +439,14 @@
             <content:encoded><![CDATA[Jul 21, 2020]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[청하 BEHIND] 리복(Reebok) F/W 광고 촬영 비하인드 (MNH ENTERTAINMENT ─ CHUNG HA)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32716715&amp;memberNo=31769942&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32716715&amp;memberNo=31769942&amp;navigationType=push</guid>
+            <pubDate>Wed, 10 Nov 2021 09:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MNH ENTERTAINMENT</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfNjEg/MDAxNjM2NDM0NDQzOTI0.XSkV3bEHvIYedNFJCunRG23Y4nUwvvL-E0ukbQ42i8Ug.RL8cFbliIQqbw4g030mRPNyk0_KINPONtSLznnBUCtYg.JPEG/IrxVQR-ocBgOLs9Jl32TA4TzPzEc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[청하BEHIND] 워너랩 WANNA LAB 광고 촬영 비하인드 (MNH ENTERTAINMENT ─ CHUNG HA)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32386244&amp;memberNo=31769942&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32386244&amp;memberNo=31769942&amp;navigationType=push</guid>
@@ -589,14 +597,6 @@
             <pubDate>Sat, 28 Aug 2021 13:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">MNH ENTERTAINMENT</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MDNfMTA2/MDAxNTkzNzgxNzEzOTMw.A60hzktuXwMSjOR3oj2JBss_6HyN4zhx69T6EZQ6Emwg.VglQZU4HCBqhPWbmf1A-wbfW79K11r8a-dBeuG-rHvUg.JPEG/IkjWRPgOhjgyH4VZDYPKOFB0CfNg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Special] 청하의 2020년 상반기를 알아보자.araboza (MNH ENTERTAINMENT ─ CHUNG HA)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28675835&amp;memberNo=31769942&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28675835&amp;memberNo=31769942&amp;navigationType=push</guid>
-            <pubDate>Sat, 28 Aug 2021 13:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">MNH ENTERTAINMENT</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MzBfMTIy/MDAxNTkzNTE1NDkwNzQ2.hMc92lBCFL_EucE7hn_XNWrm9cOVM17RlOQ3a_HPpwwg.Ma-ol_C9a3LghV979d7meobXa59Sa-rctP2OJzUSytog.JPEG/IC9_FluWXyQX3DjryzuulwWbZPJM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
