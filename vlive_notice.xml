@@ -4,9 +4,17 @@
         <title>CHUNG HA ─ Notice</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 04:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 05:39:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청하 2022 시즌그리팅 예약판매 안내]]></title>
+            <link>https://www.vlive.tv/post/1-26419780</link>
+            <guid>https://www.vlive.tv/post/1-26419780</guid>
+            <pubDate>Fri, 12 Nov 2021 05:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[39 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20211112_234/1636682060054cFN7s_JPEG/CH_SG2022_Page_PACK.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청하 2021 시즌그리팅 예약판매 안내]]></title>
             <link>https://www.vlive.tv/post/1-19812570</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-19340540</guid>
             <pubDate>Thu, 11 Nov 2021 02:51:04 GMT</pubDate>
             <content:encoded><![CDATA[Oct 20, 2020]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210711_46/1625930541684C8DnD_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
         </item>
         <item>
             <title><![CDATA[[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 8. 청하의 항마력 테스트]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-16428007</guid>
             <pubDate>Thu, 11 Nov 2021 02:51:04 GMT</pubDate>
             <content:encoded><![CDATA[Aug 11, 2020]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📸 [청하BEHIND] 2020 청하 온라인 팬미팅 < 청하나라의 별하랑 > 현장]]></title>
-            <link>https://www.vlive.tv/post/1-16404018</link>
-            <guid>https://www.vlive.tv/post/1-16404018</guid>
-            <pubDate>Thu, 11 Nov 2021 02:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[Aug 10, 2020]]></content:encoded>
         </item>
     </channel>
 </rss>
