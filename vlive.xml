@@ -4,15 +4,23 @@
         <title>CHUNG HA ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 14:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 15:46:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청하 THE SPECIAL SINGLE [ Killing Me ] Timetable]]></title>
+            <link>https://www.vlive.tv/post/0-26516623</link>
+            <guid>https://www.vlive.tv/post/0-26516623</guid>
+            <pubDate>Fri, 19 Nov 2021 15:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20211119_130/1637312151670awwV5_PNG/timetable.png?type=f144x144" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[청하 THE SPECIAL SINGLE [ Killing Me ] 예약판매 1차 안내]]></title>
             <link>https://www.vlive.tv/post/0-26516686</link>
             <guid>https://www.vlive.tv/post/0-26516686</guid>
             <pubDate>Fri, 19 Nov 2021 09:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net//20211119_58/1637312476822D8jrM_PNG/pack_all.png?type=f144x144" length="0" type="image/png"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://www.vlive.tv/post/0-26500521</link>
             <guid>https://www.vlive.tv/post/0-26500521</guid>
             <pubDate>Thu, 18 Nov 2021 15:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.18.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net//20211118_146/1637214513080CGImr_PNG/comingsoon.png?type=f144x144" length="0" type="image/png"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26363374</guid>
             <pubDate>Thu, 11 Nov 2021 02:50:55 GMT</pubDate>
             <content:encoded><![CDATA[11.8.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211108_113/163636579568696Q8g_JPEG/upload_80445524682394655fa82b513-7f6f-49c1-aa7f-5cedbae4918b.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHUNG HA 청하 SEASON'S GREETINGS 2022 PREVIEW]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-22858027</guid>
             <pubDate>Thu, 11 Nov 2021 02:50:55 GMT</pubDate>
             <content:encoded><![CDATA[5.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[B-HAind] CHUNG HA 청하 리복(Reebok) 광고 촬영 비하인드]]></title>
-            <link>https://www.vlive.tv/post/1-22633381</link>
-            <guid>https://www.vlive.tv/post/1-22633381</guid>
-            <pubDate>Thu, 11 Nov 2021 02:50:55 GMT</pubDate>
-            <content:encoded><![CDATA[5.6.]]></content:encoded>
         </item>
     </channel>
 </rss>
