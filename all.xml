@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 13:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 13:43:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킬링미🤟🏻🤟🏻 (CHUNG HA ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-26671807</link>
+            <guid>https://www.vlive.tv/post/0-26671807</guid>
+            <pubDate>Mon, 29 Nov 2021 13:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[11분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270494/thumb?type=f640_362" length="0" type="image//live/270494/thumb"/>
+        </item>
         <item>
             <title><![CDATA[CHUNG HA 청하 'Killing Me' MV (CHUNG HA ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-26644221</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26602762</guid>
             <pubDate>Wed, 24 Nov 2021 15:46:19 GMT</pubDate>
             <content:encoded><![CDATA[11.24.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211124_226/1637762294531irmC5_JPEG/upload_540318867336265989083fc00-b456-4511-b69f-6d702a8d3661.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청하 THE SPECIAL SINGLE [ Killing Me ] Online Cover Image (CHUNG HA ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-25668104</guid>
             <pubDate>Sat, 20 Nov 2021 23:40:53 GMT</pubDate>
             <content:encoded><![CDATA[9.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CHUNG HA 청하 2021 Chuseok Greeting 추석 인사 (CHUNG HA ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-25450711</link>
-            <guid>https://www.vlive.tv/post/1-25450711</guid>
-            <pubDate>Sat, 20 Nov 2021 23:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[9.20.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[청하 2022 시즌그리팅 예약판매 안내 (CHUNG HA ─ Notice)]]></title>
