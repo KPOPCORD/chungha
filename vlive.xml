@@ -4,15 +4,23 @@
         <title>CHUNG HA ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 08:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 09:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CHUNG HA 청하 'Killing Me' MV Making]]></title>
+            <link>https://www.vlive.tv/post/0-26656245</link>
+            <guid>https://www.vlive.tv/post/0-26656245</guid>
+            <pubDate>Tue, 30 Nov 2021 09:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[38분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_258/1638117440487JUIt7_JPEG/upload_821971635040404139ab1c410-6443-4116-b955-ad604dac7743.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[킬링미🤟🏻🤟🏻]]></title>
             <link>https://www.vlive.tv/post/0-26671807</link>
             <guid>https://www.vlive.tv/post/0-26671807</guid>
             <pubDate>Mon, 29 Nov 2021 13:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_249/1638193855459Hs8a4_JPEG/2ea08096-511b-11ec-9ac7-505dac8c381b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://www.vlive.tv/post/1-26644221</link>
             <guid>https://www.vlive.tv/post/1-26644221</guid>
             <pubDate>Mon, 29 Nov 2021 09:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.29.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_182/1638036110575gjUXp_JPEG/upload_82115815931786578cd768d8b-7f99-48d9-809a-e6a40765b228.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26621486</guid>
             <pubDate>Fri, 26 Nov 2021 15:46:03 GMT</pubDate>
             <content:encoded><![CDATA[11.26.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_201/1637932207207sGAmj_JPEG/upload_820119143742416817ca883aa-2e07-4c6f-974d-36a40559d199.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHUNG HA 청하 'Killing Me' MV Teaser 1]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-26088371</guid>
             <pubDate>Sat, 20 Nov 2021 23:40:53 GMT</pubDate>
             <content:encoded><![CDATA[10.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[C-HAind] LP 촬영장에서 생긴 일]]></title>
-            <link>https://www.vlive.tv/post/0-25668104</link>
-            <guid>https://www.vlive.tv/post/0-25668104</guid>
-            <pubDate>Sat, 20 Nov 2021 23:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[9.29.]]></content:encoded>
         </item>
     </channel>
 </rss>
