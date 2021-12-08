@@ -4,15 +4,23 @@
         <title>CHUNG HA ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 11:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 13:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Performance] CHUNG HA 청하 'Killing Me' Performance Video]]></title>
+            <link>https://www.vlive.tv/post/1-26855119</link>
+            <guid>https://www.vlive.tv/post/1-26855119</guid>
+            <pubDate>Wed, 08 Dec 2021 13:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_56/16389651778044Rsk5_JPEG/upload_55234773092057558b00d9a3e-e4f0-423a-a7b0-cab1ebc73bd5.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[C-HAind] 프로듀서 김.청.하.]]></title>
             <link>https://www.vlive.tv/post/0-26837891</link>
             <guid>https://www.vlive.tv/post/0-26837891</guid>
             <pubDate>Wed, 08 Dec 2021 11:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_212/1638901475995tTFTa_JPEG/upload_829811852369903646e963bd3-5a89-4000-8551-f41810ebfbd5.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26671807</guid>
             <pubDate>Mon, 29 Nov 2021 13:42:43 GMT</pubDate>
             <content:encoded><![CDATA[11.29.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_249/1638193855459Hs8a4_JPEG/2ea08096-511b-11ec-9ac7-505dac8c381b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHUNG HA 청하 'Killing Me' MV]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-26232786</guid>
             <pubDate>Sat, 20 Nov 2021 23:40:53 GMT</pubDate>
             <content:encoded><![CDATA[10.30.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[B-HAind] CHUNG HA 청하 'BAD GIRL (Prod. Czaer)' 녹음실 비하인드]]></title>
-            <link>https://www.vlive.tv/post/1-26211065</link>
-            <guid>https://www.vlive.tv/post/1-26211065</guid>
-            <pubDate>Sat, 20 Nov 2021 23:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[10.28.]]></content:encoded>
         </item>
     </channel>
 </rss>
