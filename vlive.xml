@@ -4,15 +4,23 @@
         <title>CHUNG HA ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 11:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 13:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[B-HAind] CHUNG HA 청하 'Killing Me' 자켓 촬영 비하인드]]></title>
+            <link>https://www.vlive.tv/post/1-26844473</link>
+            <guid>https://www.vlive.tv/post/1-26844473</guid>
+            <pubDate>Thu, 09 Dec 2021 13:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_85/1638901979637uD2K5_JPEG/upload_8298168958959064307d13c77-1715-4ee4-a61c-2a65208b5419.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Performance] CHUNG HA 청하 'Killing Me' Performance Video]]></title>
             <link>https://www.vlive.tv/post/1-26855119</link>
             <guid>https://www.vlive.tv/post/1-26855119</guid>
             <pubDate>Wed, 08 Dec 2021 13:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.8.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_56/16389651778044Rsk5_JPEG/upload_55234773092057558b00d9a3e-e4f0-423a-a7b0-cab1ebc73bd5.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26656245</guid>
             <pubDate>Tue, 30 Nov 2021 09:38:28 GMT</pubDate>
             <content:encoded><![CDATA[11.30.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_258/1638117440487JUIt7_JPEG/upload_821971635040404139ab1c410-6443-4116-b955-ad604dac7743.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킬링미🤟🏻🤟🏻]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-26088494</guid>
             <pubDate>Sat, 20 Nov 2021 23:40:53 GMT</pubDate>
             <content:encoded><![CDATA[11.3.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[할말...이 아직 많이 남았어요 별하랑...!⭐️]]></title>
-            <link>https://www.vlive.tv/post/0-26232786</link>
-            <guid>https://www.vlive.tv/post/0-26232786</guid>
-            <pubDate>Sat, 20 Nov 2021 23:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[10.30.]]></content:encoded>
         </item>
     </channel>
 </rss>
