@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 02:57:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 03:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CHUNG HA 청하 2021 Christmas 크리스마스 영상편지 (CHUNG HA ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-27047009</link>
+            <guid>https://www.vlive.tv/post/1-27047009</guid>
+            <pubDate>Sat, 25 Dec 2021 03:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[43분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_197/1640189921400XIqtD_JPEG/upload_56459525607429575f3e0ebb7-7620-48b5-a412-ade0a04396d0.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[B-HAind] CHUNG HA 청하 ‘Killing Me’ 안무연습 비하인드 (CHUNG HA ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-27020421</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26844543</guid>
             <pubDate>Fri, 10 Dec 2021 09:43:00 GMT</pubDate>
             <content:encoded><![CDATA[12.10.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211208_108/1638902413553SRtOO_JPEG/upload_551720148098747481aa0423b-270f-4b97-af8e-71ac2df997c2.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[B-HAind] CHUNG HA 청하 'Killing Me' 자켓 촬영 비하인드 (CHUNG HA ─ Star Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[청하 THE SPECIAL SINGLE [ Killing Me ] Timetable (CHUNG HA ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-26516623</link>
             <guid>https://www.vlive.tv/post/0-26516623</guid>
-            <pubDate>Sat, 20 Nov 2021 23:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[11.19.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[청하 THE SPECIAL SINGLE [ Killing Me ] 예약판매 1차 안내 (CHUNG HA ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-26516686</link>
-            <guid>https://www.vlive.tv/post/0-26516686</guid>
             <pubDate>Sat, 20 Nov 2021 23:40:53 GMT</pubDate>
             <content:encoded><![CDATA[11.19.]]></content:encoded>
         </item>
